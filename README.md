@@ -7,7 +7,7 @@
 
 - 📍 I’m From Brazil (SP)
 - 💻 19+ Years Experience in Health Information Systems Engineer
-- 👩‍💻 Developer Enthusiast & Volunteer
+- 👩🏼‍💻Developer Enthusiast & Volunteer
 - 👀 I love learning new things, especially about technology
 - 🎮 I love playing call of duty
 - 🌱 Plant seeds of happiness, hope, success and love; everything will come back to you in abundance. This is the law of nature.
