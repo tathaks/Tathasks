@@ -1,4 +1,4 @@
-# Hey Developers 👋
+# Hey Developers 
 
 ## Welcome to my Github profile.
 ## My name is Tatiane and my nickname is "Tathasks"!
