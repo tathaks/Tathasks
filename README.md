@@ -26,4 +26,3 @@
 
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
-<img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
